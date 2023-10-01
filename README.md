@@ -10,7 +10,6 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [How to Play](#how-to-play)
-- [Game Clues](#game-clues)
 
 
 ## Introduction
