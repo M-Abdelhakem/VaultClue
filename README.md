@@ -1,6 +1,6 @@
 # VaultClue - The Bagels Number Guessing Game
 
-![VaultClue](link-to-your-game-screenshot.png)
+<!-- ![VaultClue](link-to-your-game-screenshot.png) -->
 
 ## Table of Contents
 
@@ -39,7 +39,7 @@ Follow these steps to start your mission to open the VaultClue:
 ### Prerequisites
 
 - Python 3.x installed on your system.
-- Kivy library (usually included with Python).
+- Kivy library.
 
 ### How to play
 
