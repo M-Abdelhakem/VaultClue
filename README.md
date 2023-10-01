@@ -6,9 +6,7 @@
 
 - [Introduction](#introduction)
 - [Rules and Gameplay](#rules-and-gameplay)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+- [Prerequisites](#prerequisites)
 - [How to Play](#how-to-play)
 
 
