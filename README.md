@@ -29,16 +29,12 @@ Beware! The vault is cunning, and it's programmed to adapt. After 10 consecutive
 
 The computer can give multiple clues, which are sorted in random order. For example, if the secret number is 456 and your guess is 546, the clues could be "fermi pico pico" or "pico fermi pico," indicating 'fermi' from 6 and 'pico pico' from 4 & 5.
 
-## Getting Started
-
-Follow these steps to start your mission to open the VaultClue:
-
-### Prerequisites
+## Prerequisites
 
 - Python 3.x installed on your system.
 - Kivy library.
 
-### How to play
+## How to play
 
 1. Launch the game by executing main.py.
 2. The mysterious computer within VaultClue will conjure a secret three-digit number, hidden deep within its vaulted chambers.
